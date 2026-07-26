@@ -1,7 +1,6 @@
-tap "homebrew/cask"
-
 # CLI
 brew "git"
+brew "docker"
 
 # Dev
 brew "uv"
@@ -10,4 +9,3 @@ brew "uv"
 cask "firefox"
 cask "visual-studio-code"
 cask "iterm2"
-cask "docker"
