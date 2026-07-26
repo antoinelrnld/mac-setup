@@ -2,13 +2,12 @@ tap "homebrew/cask"
 
 # CLI
 brew "git"
-brew "wget"
 
 # Dev
-brew "node"
-brew "python"
+brew "uv"
 
 # Apps
+cask "firefox"
 cask "visual-studio-code"
 cask "iterm2"
 cask "docker"
